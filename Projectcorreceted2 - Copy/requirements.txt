@@ -1,0 +1,6 @@
+openai
+python-dotenv
+pdfkit
+streamlit==1.47.1
+streamlit-authenticator==0.4.2
+bcrypt
